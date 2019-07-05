@@ -8,7 +8,7 @@ import 'dart:async';
 
 // récupération des infos sur api.ai
 var httpClient = new Client();
-var _apiAIClientAccessToken = '944418f9ca794e43b52b56063f633121';
+var _apiAIClientAccessToken = 'acess_token';
 var contextsName = 'talks';
 var sessionId = 'flutterchatrobot_v001';
 var language = 'fr';
